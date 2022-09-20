@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I'm Shantanu Pade
 
 <!--
 **shantanupade/shantanupade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Shantanu's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShantanuPade&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanupade&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=Shantanu%20Pade's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shantanupade&theme=dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+
+
+[![Shantanu's github activity graph](https://activity-graph.herokuapp.com/graph?username=shantanupade&theme=react-dark&custom_title=Github%20Commits%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
